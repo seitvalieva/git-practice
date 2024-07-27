@@ -11,6 +11,9 @@ git status
     
 git log
     to review the history of commits
+Git Graph
+Git History
+    VS Code extensions to view the history of commits and branches
 git diff 7435 c286d7
     to view the difference between 2 commits
 Q
