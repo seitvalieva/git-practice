@@ -39,3 +39,6 @@ git branch branch_name
 
 git checkout branch_name    // example: git checkout master
     to switch to another branch
+
+git merge feature1
+    to merge the branch feature1 with your current branch
